@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b0dfc74b153638498761f112ac36d79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bluePrefab: {fileID: 3202484993065920293, guid: 8623b61821f22f84e804287404da199c, type: 3}
+  - redPrefab: {fileID: 1936425240699288685, guid: 8ccc00e7b722f8e44937e8fed2f98d76, type: 3}
+  - greenPrefab: {fileID: 1497405474256663042, guid: 1711640f297aff14ab9c90c00ec36f35, type: 3}
+  - yellowPrefab: {fileID: 3465504470268616115, guid: b7e0d1b77079b2c4d95f257aff919781, type: 3}
+  - ballPrefab: {fileID: 6363995943007260618, guid: d639fe1f07e72824d8940aaf9574cb1f, type: 3}
+  - gameData: {fileID: 11400000, guid: fc5396b84e463be468956efc55ec423d, type: 2}
+  - pointSound: {fileID: 8300000, guid: 9b8d5bbba6f2ae648a0909a9a1b257c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
